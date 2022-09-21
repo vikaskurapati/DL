@@ -1,0 +1,4 @@
+batch_size: 32
+learning_rate: 0.005
+loading_method: Image
+num_workers: 2
